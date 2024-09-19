@@ -1,6 +1,8 @@
 
 # Parancsok és lépések
 
+[YouTube Link](https://www.youtube.com/watch?v=DMs7DX3Um9E)
+
 ## 1. Rendszer-frissítés
 ```bash
 sudo pacman -Syu
