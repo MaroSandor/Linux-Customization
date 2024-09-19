@@ -81,4 +81,6 @@ Kódszerkesztő > Visual Studio Code, Netbeans
 API teszter > Postman
 Markdown-néző/-szerkesztő > Haroopad
 Konzol > ZSH > Oh-My-Zsh ("bira" téma)
+Verziókezelő > Git (GitHub Desktop)
+Egyéb > Discord
 ```
