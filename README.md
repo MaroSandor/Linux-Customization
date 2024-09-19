@@ -73,3 +73,12 @@ rm -rfv ~/Downloads/cinnamon-applets-config
 unzip ~/Downloads/cinnamon-config-cinnamenu.zip -d ~/Downloads/
 dconf load / > ~/Downloads/cinnamon_config_cinnamenu/cinnamon-config-cinnamenu.conf
 ```
+
+## 10. Szoftverek:
+```
+Böngésző > Firefox
+Kódszerkesztő > Visual Studio Code, Netbeans
+API teszter > Postman
+Markdown-néző/-szerkesztő > Haroopad
+Konzol > ZSH > Oh-My-Zsh ("bira" téma)
+```
